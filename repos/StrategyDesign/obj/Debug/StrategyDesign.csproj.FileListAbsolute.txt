@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\StrategyDesign\bin\Debug\StrategyDesign.exe.config
+C:\Users\shiweitun\source\repos\StrategyDesign\bin\Debug\StrategyDesign.exe
+C:\Users\shiweitun\source\repos\StrategyDesign\bin\Debug\StrategyDesign.pdb
+C:\Users\shiweitun\source\repos\StrategyDesign\obj\Debug\StrategyDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\StrategyDesign\obj\Debug\StrategyDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\StrategyDesign\obj\Debug\StrategyDesign.exe
+C:\Users\shiweitun\source\repos\StrategyDesign\obj\Debug\StrategyDesign.pdb

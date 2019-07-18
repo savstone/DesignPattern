@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\ProxyDesign\obj\Debug\ProxyDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\ProxyDesign\obj\Debug\ProxyDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\ProxyDesign\bin\Debug\ProxyDesign.exe.config
+C:\Users\shiweitun\source\repos\ProxyDesign\bin\Debug\ProxyDesign.exe
+C:\Users\shiweitun\source\repos\ProxyDesign\bin\Debug\ProxyDesign.pdb
+C:\Users\shiweitun\source\repos\ProxyDesign\obj\Debug\ProxyDesign.exe
+C:\Users\shiweitun\source\repos\ProxyDesign\obj\Debug\ProxyDesign.pdb

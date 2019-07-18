@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\BuildDesign\obj\Debug\BuildDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\BuildDesign\obj\Debug\BuildDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\BuildDesign\bin\Debug\BuildDesign.exe.config
+C:\Users\shiweitun\source\repos\BuildDesign\bin\Debug\BuildDesign.exe
+C:\Users\shiweitun\source\repos\BuildDesign\bin\Debug\BuildDesign.pdb
+C:\Users\shiweitun\source\repos\BuildDesign\obj\Debug\BuildDesign.exe
+C:\Users\shiweitun\source\repos\BuildDesign\obj\Debug\BuildDesign.pdb

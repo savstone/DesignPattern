@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\PrototypeDesign\bin\Debug\PrototypeDesign.exe.config
+C:\Users\shiweitun\source\repos\PrototypeDesign\bin\Debug\PrototypeDesign.exe
+C:\Users\shiweitun\source\repos\PrototypeDesign\bin\Debug\PrototypeDesign.pdb
+C:\Users\shiweitun\source\repos\PrototypeDesign\obj\Debug\PrototypeDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\PrototypeDesign\obj\Debug\PrototypeDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\PrototypeDesign\obj\Debug\PrototypeDesign.exe
+C:\Users\shiweitun\source\repos\PrototypeDesign\obj\Debug\PrototypeDesign.pdb

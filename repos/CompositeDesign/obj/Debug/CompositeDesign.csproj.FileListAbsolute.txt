@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\CompositeDesign\bin\Debug\CompositeDesign.exe.config
+C:\Users\shiweitun\source\repos\CompositeDesign\bin\Debug\CompositeDesign.exe
+C:\Users\shiweitun\source\repos\CompositeDesign\bin\Debug\CompositeDesign.pdb
+C:\Users\shiweitun\source\repos\CompositeDesign\obj\Debug\CompositeDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\CompositeDesign\obj\Debug\CompositeDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\CompositeDesign\obj\Debug\CompositeDesign.exe
+C:\Users\shiweitun\source\repos\CompositeDesign\obj\Debug\CompositeDesign.pdb

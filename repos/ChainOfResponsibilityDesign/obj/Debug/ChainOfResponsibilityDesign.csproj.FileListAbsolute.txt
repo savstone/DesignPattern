@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\bin\Debug\ChainOfResponsibilityDesign.exe.config
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\bin\Debug\ChainOfResponsibilityDesign.exe
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\bin\Debug\ChainOfResponsibilityDesign.pdb
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\obj\Debug\ChainOfResponsibilityDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\obj\Debug\ChainOfResponsibilityDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\obj\Debug\ChainOfResponsibilityDesign.exe
+C:\Users\shiweitun\source\repos\ChainOfResponsibilityDesign\obj\Debug\ChainOfResponsibilityDesign.pdb

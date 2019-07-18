@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\ObserverDesign\bin\Debug\ObserverDesign.exe.config
+C:\Users\shiweitun\source\repos\ObserverDesign\bin\Debug\ObserverDesign.exe
+C:\Users\shiweitun\source\repos\ObserverDesign\bin\Debug\ObserverDesign.pdb
+C:\Users\shiweitun\source\repos\ObserverDesign\obj\Debug\ObserverDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\ObserverDesign\obj\Debug\ObserverDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\ObserverDesign\obj\Debug\ObserverDesign.exe
+C:\Users\shiweitun\source\repos\ObserverDesign\obj\Debug\ObserverDesign.pdb

@@ -1,0 +1,10 @@
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\bin\Debug\AsyncFile.exe.config
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\bin\Debug\AsyncFile.exe
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\bin\Debug\AsyncFile.pdb
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.csprojAssemblyReference.cache
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.Form1.resources
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.Properties.Resources.resources
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.csproj.GenerateResource.cache
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.exe
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncFile\obj\Debug\AsyncFile.pdb

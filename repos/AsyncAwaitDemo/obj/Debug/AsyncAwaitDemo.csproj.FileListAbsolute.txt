@@ -1,0 +1,7 @@
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe.config
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.pdb
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.exe
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.pdb
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csprojAssemblyReference.cache

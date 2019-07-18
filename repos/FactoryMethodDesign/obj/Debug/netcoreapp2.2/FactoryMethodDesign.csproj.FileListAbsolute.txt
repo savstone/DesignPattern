@@ -1,0 +1,11 @@
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\bin\Debug\netcoreapp2.2\FactoryMethodDesign.deps.json
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\bin\Debug\netcoreapp2.2\FactoryMethodDesign.runtimeconfig.json
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\bin\Debug\netcoreapp2.2\FactoryMethodDesign.runtimeconfig.dev.json
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\bin\Debug\netcoreapp2.2\FactoryMethodDesign.dll
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\bin\Debug\netcoreapp2.2\FactoryMethodDesign.pdb
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\obj\Debug\netcoreapp2.2\FactoryMethodDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\obj\Debug\netcoreapp2.2\FactoryMethodDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\obj\Debug\netcoreapp2.2\FactoryMethodDesign.AssemblyInfoInputs.cache
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\obj\Debug\netcoreapp2.2\FactoryMethodDesign.AssemblyInfo.cs
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\obj\Debug\netcoreapp2.2\FactoryMethodDesign.dll
+C:\Users\shiweitun\source\repos\FactoryMethodDesign\obj\Debug\netcoreapp2.2\FactoryMethodDesign.pdb

@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\IteratorDesign\bin\Debug\IteratorDesign.exe.config
+C:\Users\shiweitun\source\repos\IteratorDesign\bin\Debug\IteratorDesign.exe
+C:\Users\shiweitun\source\repos\IteratorDesign\bin\Debug\IteratorDesign.pdb
+C:\Users\shiweitun\source\repos\IteratorDesign\obj\Debug\IteratorDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\IteratorDesign\obj\Debug\IteratorDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\IteratorDesign\obj\Debug\IteratorDesign.exe
+C:\Users\shiweitun\source\repos\IteratorDesign\obj\Debug\IteratorDesign.pdb

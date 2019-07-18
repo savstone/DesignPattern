@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\StateDesign\bin\Debug\StateDesign.exe.config
+C:\Users\shiweitun\source\repos\StateDesign\bin\Debug\StateDesign.exe
+C:\Users\shiweitun\source\repos\StateDesign\bin\Debug\StateDesign.pdb
+C:\Users\shiweitun\source\repos\StateDesign\obj\Debug\StateDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\StateDesign\obj\Debug\StateDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\StateDesign\obj\Debug\StateDesign.exe
+C:\Users\shiweitun\source\repos\StateDesign\obj\Debug\StateDesign.pdb

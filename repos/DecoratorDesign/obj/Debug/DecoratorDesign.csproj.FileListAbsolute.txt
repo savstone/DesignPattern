@@ -1,0 +1,7 @@
+C:\Users\shiweitun\source\repos\DecoratorDesign\bin\Debug\DecoratorDesign.exe.config
+C:\Users\shiweitun\source\repos\DecoratorDesign\bin\Debug\DecoratorDesign.exe
+C:\Users\shiweitun\source\repos\DecoratorDesign\bin\Debug\DecoratorDesign.pdb
+C:\Users\shiweitun\source\repos\DecoratorDesign\obj\Debug\DecoratorDesign.csprojAssemblyReference.cache
+C:\Users\shiweitun\source\repos\DecoratorDesign\obj\Debug\DecoratorDesign.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\source\repos\DecoratorDesign\obj\Debug\DecoratorDesign.exe
+C:\Users\shiweitun\source\repos\DecoratorDesign\obj\Debug\DecoratorDesign.pdb

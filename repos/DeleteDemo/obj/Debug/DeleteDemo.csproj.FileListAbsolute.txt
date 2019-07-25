@@ -1,0 +1,7 @@
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\bin\Debug\DeleteDemo.exe.config
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\bin\Debug\DeleteDemo.exe
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\bin\Debug\DeleteDemo.pdb
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\obj\Debug\DeleteDemo.csprojAssemblyReference.cache
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\obj\Debug\DeleteDemo.csproj.CoreCompileInputs.cache
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\obj\Debug\DeleteDemo.exe
+C:\Users\shiweitun\OneDrive\DesignPatternDemo\repos\DeleteDemo\obj\Debug\DeleteDemo.pdb
